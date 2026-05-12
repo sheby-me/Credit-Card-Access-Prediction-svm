@@ -1,2 +1,2 @@
 # Credit-Card-Status-svm
-A security-focused classification model using Support Vector Machines (SVM) to authorize credit card access based on user behavioral data.
+Support Vector Machine model predicting whether a bank credit card will be accessed or not.
